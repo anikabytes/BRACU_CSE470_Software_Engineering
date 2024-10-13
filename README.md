@@ -8,4 +8,4 @@
 
 ## 470 Project 
 
-[Snake Game](https://github.com/anikabytes/BRACU_CSE423_Snake_Game.git)
+[DIY Design And Collaboration Website](https://github.com/anikabytes/CSE470_DIY_Design_And_Collaboration_Website)
